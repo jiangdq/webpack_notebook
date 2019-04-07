@@ -1,0 +1,30 @@
+{
+    "name": "webpack_notebook",
+    "version": "1.0.0",
+    "description": "webpack optimzie ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jiangdq/webpack_notebook.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jiangdq/webpack_notebook/issues"
+    },
+    "homepage": "https://github.com/jiangdq/webpack_notebook#readme",
+    "dependencies": {
+        "@babel/core": "^7.4.3",
+        "@babel/preset-env": "^7.4.3",
+        "babel": "^6.23.0",
+        "babel-loader": "^8.0.5",
+        "html-webpack-plugin": "^3.2.0",
+        "lodash": "^4.17.11",
+        "webpack": "^4.29.6",
+        "webpack-cli": "^3.3.0"
+    }
+}
